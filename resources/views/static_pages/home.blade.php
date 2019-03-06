@@ -23,13 +23,13 @@
         <div class="jumbotron">
             <h1>Hello Friend</h1>
             <p class="lead">
-                你现在所看到的是 <a href="http://weibo.com/u/3094689665?is_hot=1">这里会分享我个人作为后端开发者的经验，感谢大家来捧场。</a>
+                 <a href="http://weibo.com/u/3094689665?is_hot=1">你现在所看到的是: 黄向荣作为后端开发者的经验，感谢大家来捧场。</a>
             </p>
             <p>
-                在这里，你也了解关于我的最新动态。
+                在这里，你也可以了解关于我的最新动态。
             </p>
             <p>
-                <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">现在注册</a>
+                <a class="btn btn-lg btn-success" href="{{ route('users.index') }}" role="button">立即浏览</a>
             </p>
         </div>
     @endif
