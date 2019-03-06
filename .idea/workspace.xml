@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5854ea15-3c60-4fc9-9dcd-254e8924f4eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/static_pages/home.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/_footer.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="217">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -38,7 +38,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/webpack.mix.js" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/shared/_user_info.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/shared/_errors.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/users/create.blade.php" />
@@ -88,6 +87,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/FollowersController.php" />
         <option value="$PROJECT_DIR$/app/Models/User.php" />
         <option value="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" />
       </list>
     </option>
   </component>
@@ -184,9 +184,9 @@
       <path value="$PROJECT_DIR$/vendor/caouecs/laravel-lang" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="156" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="58" />
+    <option name="y" value="45" />
     <option name="width" value="1216" />
     <option name="height" value="777" />
   </component>
@@ -208,19 +208,6 @@
               <item name="SmileForward" type="b2602c69:ProjectViewProjectNode" />
               <item name="SmileForward" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SmileForward" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SmileForward" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SmileForward" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SmileForward" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SmileForward" type="b2602c69:ProjectViewProjectNode" />
@@ -286,10 +273,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83196000" />
+    <option name="totallyTimeSpent" value="83477000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="341" y="408" width="1216" height="777" extended-state="0" />
+    <frame x="58" y="45" width="1216" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.29194078" />
@@ -319,13 +306,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Mail/Mailer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -731,8 +711,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/static_pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="-324">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/_footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
