@@ -29,7 +29,7 @@
                 在这里，你也可以了解关于我的最新动态。
             </p>
             <p>
-                <a class="btn btn-lg btn-success" href="{{ route('users.index') }}" role="button">立即浏览</a>
+                <a class="btn btn-lg btn-success" href="{{ route('users.index',['id' => 1]) }}" role="button">立即浏览</a>
             </p>
         </div>
     @endif
