@@ -10,6 +10,7 @@ use Auth;
 class User extends Authenticatable
 {
     use Notifiable;
+    use Traits\HashIdHelper;
 
     /**
      * The attributes that are mass assignable.
